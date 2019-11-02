@@ -13,9 +13,9 @@ import Back from "../assets/back.jpeg";
 
 export default class Food extends Component {
   static navigationOptions = {
-    title: "FORNECEDORES DE ALIMENTOS",
+    title: "ALIMENTOS",
     headerTitleStyle: {
-      fontSize: 16
+      fontSize: 18
     }
   };
 

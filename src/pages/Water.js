@@ -13,9 +13,9 @@ import Back from "../assets/back.jpeg";
 
 export default class Water extends Component {
   static navigationOptions = {
-    title: "FORNECEDORES DE BEBIDAS",
+    title: "BEBIDAS",
     headerTitleStyle: {
-      fontSize: 16
+      fontSize: 18
     }
   };
 

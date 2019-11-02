@@ -13,9 +13,9 @@ import Back from "../assets/back.jpeg";
 
 export default class Medicine extends Component {
   static navigationOptions = {
-    title: "FORNECEDORES DE MEDICAMENTOS",
+    title: "MEDICAMENTOS",
     headerTitleStyle: {
-      fontSize: 16
+      fontSize: 18
     }
   };
 

@@ -12,6 +12,13 @@ import Logo from "../assets/logo.png";
 import Back from "../assets/back.jpeg";
 
 export default class User extends Component {
+  static navigationOptions = {
+    title: "PROVIDERJS",
+    headerTitleStyle: {
+      fontSize: 18
+    }
+  };
+
   handleSubmitFood() {
     this.props.navigation.navigate("Food");
   }
